@@ -51,8 +51,8 @@
         >
           <img
             alt="moto"
-            src="/images/object/1.png"
-            class="absolute -right-20 -bottom-8 h-40 w-40 mb-4"
+            src="cartao-de-credito.png"
+            class="absolute -right-8 -bottom-2 h-40 w-40 mb-4"
           />
           <div class="w-4/6">
             <p class="text-gray-900 text-xl font-extrabold mb-2">Saldo</p>
@@ -70,22 +70,6 @@
           <!--Atendimento-->
           <li class="py-2">
             <div class="w-1/2 flex flex-row items-center justify-between p-2">
-              <div>
-                <svg
-                  class="w-8 h-8"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z"
-                  ></path>
-                </svg>
-              </div>
               <div class="flex-1 mx-8 text-2xl font-bold">Atendimento</div>
               <div class="flex space-x-1 text-gray-900">
                 <!--Primeiro-->
@@ -151,22 +135,7 @@
           <!--Qualidade-->
           <li class="py-2">
             <div class="w-1/2 flex flex-row items-center justify-between p-2">
-              <div>
-                <svg
-                  class="w-8 h-8"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z"
-                  ></path>
-                </svg>
-              </div>
+             
               <div class="flex-1 mx-8 text-2xl font-bold">Qualidade</div>
               <div class="flex space-x-1 text-gray-900">
                 <svg
@@ -231,22 +200,7 @@
           <!--Velocidade-->
           <li class="py-2">
             <div class="w-1/2 flex flex-row items-center justify-between p-2">
-              <div>
-                <svg
-                  class="w-8 h-8"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z"
-                  ></path>
-                </svg>
-              </div>
+              
               <div class="flex-1 mx-8 text-2xl font-bold">Velocidade</div>
               <div class="flex space-x-1 text-gray-900">
                 <svg
@@ -311,5 +265,6 @@
         </ul>
       </div>
     </div>
+    <!-- cursos -->
   </div>
 </template>

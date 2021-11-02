@@ -23,11 +23,11 @@
                 alt=""
               />
               <div class="pl-4">
-                <p class="text-xl">Mikael Bezerra</p>
+                <p class="text-xl">Mikael</p>
                 <p class="text-blue-600">Front-end</p>
               </div>
             </div>
-            <p class="leading-loose text-blueGray-400">lorem</p>
+            <p class="leading-loose text-blueGray-400">4º Info</p>
           </div>
         </div>
         <div class="w-full md:w-1/2 px-3 mb-6">
@@ -39,11 +39,11 @@
                 alt=""
               />
               <div class="pl-4">
-                <p class="text-xl">Paulo Tonhão</p>
+                <p class="text-xl">Paulo</p>
                 <p class="text-blue-600">Back-end</p>
               </div>
             </div>
-            <p class="leading-loose text-blueGray-400">lorem</p>
+            <p class="leading-loose text-blueGray-400">4º Info</p>
           </div>
         </div>
         <div class="w-full md:w-1/2 px-3 mb-6">
@@ -59,7 +59,7 @@
                 <p class="text-blue-600">Marketing</p>
               </div>
             </div>
-            <p class="leading-loose text-blueGray-400">lorem</p>
+            <p class="leading-loose text-blueGray-400">4º Info</p>
           </div>
         </div>
         <div class="w-full md:w-1/2 px-3 mb-6">
@@ -75,7 +75,7 @@
                 <p class="text-blue-600">Negocio</p>
               </div>
             </div>
-            <p class="leading-loose text-blueGray-400">lorem</p>
+            <p class="leading-loose text-blueGray-400">1º Info</p>
           </div>
         </div>
         <div class="w-full md:w-1/2 px-3 mb-6">
@@ -91,7 +91,7 @@
                 <p class="text-blue-600">Negocio</p>
               </div>
             </div>
-            <p class="leading-loose text-blueGray-400">lorem</p>
+            <p class="leading-loose text-blueGray-400">1º Info</p>
           </div>
         </div>
         <div class="w-full md:w-1/2 px-3 mb-6">
@@ -107,7 +107,7 @@
                 <p class="text-blue-600">Negocio</p>
               </div>
             </div>
-            <p class="leading-loose text-blueGray-400">lorem</p>
+            <p class="leading-loose text-blueGray-400">1º Info</p>
           </div>
         </div>
         <div class="w-full md:w-1/2 px-3 mb-6">
@@ -123,7 +123,7 @@
                 <p class="text-blue-600">Back-end</p>
               </div>
             </div>
-            <p class="leading-loose text-blueGray-400">lorem</p>
+            <p class="leading-loose text-blueGray-400">4º Info</p>
           </div>
         </div>
         <div class="w-full md:w-1/2 px-3 mb-6">
@@ -139,7 +139,7 @@
                 <p class="text-blue-600">Negocio</p>
               </div>
             </div>
-            <p class="leading-loose text-blueGray-400">lorem</p>
+            <p class="leading-loose text-blueGray-400">1º Info</p>
           </div>
         </div>
       </div>

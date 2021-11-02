@@ -43,8 +43,7 @@
                   Freelancer
                 </h3>
                 <p class="text-blueGray-400 leading-loose">
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Veritatis expedita animi.
+                  Desenvolva De Forma Autôma Sem Vinculo Com Uma Empresa Específica.
                 </p>
               </div>
             </div>
@@ -68,8 +67,7 @@
               <div>
                 <h3 class="mb-2 text-xl font-semibold font-heading">Cliente</h3>
                 <p class="text-blueGray-400 leading-loose">
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Veritatis expedita animi.
+                  Contrate Um Colaborador Freelancer Que Melhor Se Encaixa Em Sua Necessidade. 
                 </p>
               </div>
             </div>
@@ -93,8 +91,7 @@
               <div>
                 <h3 class="mb-2 text-xl font-semibold font-heading">Empresa</h3>
                 <p class="text-blueGray-400 leading-loose">
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Veritatis expedita animi.
+                  Tercerize Sua Produção Encontrando Freelancers Para Uma Específica Atividade. Também Abra a Possibilidades de Atuar Como Um Freelancer.
                 </p>
               </div>
             </div>

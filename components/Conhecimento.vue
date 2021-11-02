@@ -36,8 +36,7 @@
                 O que vou encontrar?
               </h2>
               <p class="mb-6 text-gray-500 leading-loose">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Pellentesque efficitur nisl sodales egestas lobortis.
+                Confira As Possibilidades Em Nossa Plataforma.
               </p>
               <ul class="text-gray-500 font-bold">
                 <li class="flex mb-4">
@@ -111,7 +110,7 @@
                   Trabalho
                 </h4>
                 <p class="text-gray-500 leading-loose">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Tenha Um Aumetno Em Sua Renda Mensal Prestando Serviços.
                 </p>
               </div>
               <div class="py-6 pl-6 pr-4 shadow-md rounded bg-gray-800">
@@ -131,7 +130,7 @@
                   Mercado
                 </h4>
                 <p class="text-gray-500 leading-loose">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Conheça Novos Mercados.
                 </p>
               </div>
             </div>
@@ -157,7 +156,7 @@
                   Conhecimento
                 </h4>
                 <p class="text-gray-500 leading-loose">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Aumente Seu Conhecimento Resolvendo Possíveis Novos Problemas. 
                 </p>
               </div>
               <div class="py-6 pl-6 pr-4 shadow-md rounded-lg bg-gray-800">
@@ -182,7 +181,7 @@
                   Oportunidades
                 </h4>
                 <p class="text-gray-500 leading-loose">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Evolua Ao Mesmo Tempo Ganhe Para Isto.
                 </p>
               </div>
             </div>

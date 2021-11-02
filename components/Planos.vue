@@ -82,7 +82,7 @@
                       clip-rule="evenodd"
                     ></path>
                   </svg>
-                  <span>Erros ortograficos</span>
+                  <span>lorem</span>
                 </li>
                 <li class="mb-2 flex">
                   <svg
@@ -97,7 +97,7 @@
                       clip-rule="evenodd"
                     ></path>
                   </svg>
-                  <span>Rescrever</span>
+                  <span>lorem</span>
                 </li>
                 <li class="mb-2 flex">
                   <svg
@@ -170,7 +170,7 @@
             <div class="p-8 bg-purple-600 shadow rounded">
               <h4 class="mb-2 text-2xl font-bold text-white">Intermediario</h4>
               <span class="text-6xl font-bold text-white">R$80</span>
-              <span class="text-gray-50 text-xs">/mes</span>
+              <span class="text-gray-50 text-xs">/mês</span>
               <p class="mt-3 mb-6 leading-loose text-gray-50">
                 Trabalho completo por um mês
               </p>
@@ -188,7 +188,7 @@
                       clip-rule="evenodd"
                     ></path>
                   </svg>
-                  <span>suporte</span>
+                  <span>lorem</span>
                 </li>
                 <li class="mb-2 flex">
                   <svg
@@ -274,7 +274,7 @@
           <div class="w-full lg:w-1/3 px-4">
             <div class="p-8 bg-white shadow rounded">
               <h4 class="mb-2 text-2xl font-bold font-heading">Proficional</h4>
-              <span class="text-6xl font-bold">R$2000</span>
+              <span class="text-6xl font-bold">R$1500</span>
               <span class="text-gray-400 text-xs">/Ano</span>
               <p class="mt-3 mb-6 text-gray-500 leading-loose">
                 Mimos e tudo mais
