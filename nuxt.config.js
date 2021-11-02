@@ -4,7 +4,7 @@ export default {
 
   // Global App headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'My Nuxt Application',
+    title: 'Traquejo',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -23,7 +23,12 @@ export default {
   components: true,
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
-  buildModules: [],
+  buildModules: [
+     // https://go.nuxtjs.dev/typescript
+     '@nuxt/typescript-build',
+     // https://go.nuxtjs.dev/tailwindcss
+     '@nuxtjs/tailwindcss',
+  ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: []
