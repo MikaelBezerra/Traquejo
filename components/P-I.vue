@@ -12,7 +12,7 @@
           font-bold
         "
       >
-        Proficional
+        Profissional
       </button>
       <button
         class="
