@@ -308,7 +308,7 @@
                     <h1 class="px-2 text-sm">ag-email@example.com</h1>
                 </div>
                 <div class="py-2 px-4 w-full flex items-center justify-center">
-                  <button class="bg-purple-600 items-center justify-center text-center py-3 px-4 text-white font-bold text-sm rounded-lg">Participar</button>
+                  <button class="bg-purple-600 items-center justify-center text-center py-3 px-4 text-white font-bold text-sm rounded-lg"><a href="empresa"> Participar </a></button>
                 </div>
             </div>
         </div>

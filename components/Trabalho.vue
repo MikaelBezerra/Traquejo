@@ -133,9 +133,9 @@
                     rounded-lg
                     hover:bg-blue-600
                   "
-                  href="contratar"
+                  
                   >
-                  Contratar
+                  <a href="contratar">Contratar</a> 
                   </button>
               </div>
             </div>

@@ -95,7 +95,7 @@
                 duration-200
               "
             >
-              Continuar
+              <a href="servico">Continuar</a>
             </button>
           </form>
           <span class="text-sm text-gray-500"
