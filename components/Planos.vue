@@ -273,7 +273,7 @@
           </div>
           <div class="w-full lg:w-1/3 px-4">
             <div class="p-8 bg-white shadow rounded">
-              <h4 class="mb-2 text-2xl font-bold font-heading">Proficional</h4>
+              <h4 class="mb-2 text-2xl font-bold font-heading">Profissional</h4>
               <span class="text-6xl font-bold">R$1500</span>
               <span class="text-gray-400 text-xs">/Ano</span>
               <p class="mt-3 mb-6 text-gray-500 leading-loose">
